@@ -1,3 +1,9 @@
+# Important Note
+
+This is for visibility only and will not be updated.
+
+Please view the [main repository for Firetastic](https://github.com/UCI-Networking-Group/firetastic).
+
 # Firetastic
 This repository contains the source code for the Firetastic tool developed for, and used in, the paper ["The TV is Smart and Full of Trackers: Measuring Smart TV Advertising and Tracking."](https://petsymposium.org/2020/files/papers/issue2/popets-2020-0021.pdf) Firetastic enables automated installation and interaction with Fire TV apps (channels) while logging the Fire TV device's network traffic. For a more detailed description of Firetastic (and [Rokustic](https://github.com/UCI-Networking-Group/rokustic), Firetastic's sibling tool for Roku), please refer to the aforementioned paper and [the project website](https://athinagroup.eng.uci.edu/projects/smarttv/).
 
